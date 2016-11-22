@@ -1,3 +1,4 @@
+//test
 {algo division binaire
 //but mettre une division en binaire
 // le diviseur
