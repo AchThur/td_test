@@ -1,4 +1,4 @@
-//test tt tt
+//test tt tt j
 {algo division binaire
 //but mettre une division en binaire
 // le diviseur
